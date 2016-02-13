@@ -1,7 +1,7 @@
-# EMARC Rail Accelerator Parts    
-> These are the CAD parts of the rail acceleration section.
-> This section contains Fusion 360/ Autodesk Files’ share links.
-> You can access the CAD designs of EMARC by clicking those links.
+# EMARC Rail Accelerator Parts
+>   These are the CAD parts of the rail acceleration section.
+>   This section contains Fusion 360/ Autodesk Files’ share links.
+>   You can access the CAD designs of EMARC by clicking those links.
 
 ### Clamps
  [Front][1]
@@ -26,8 +26,7 @@
 
 ## Final Assembly View
  [Assembly][12]
-
-
+---- 
 **Attention: You may download those design files as your wish but you need to follow the GNU protocol while using them!**
 
 [1]:	http://a360.co/1ozpOnb "Clamp_Front"

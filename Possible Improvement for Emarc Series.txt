@@ -1,0 +1,4 @@
+Possible Improvement for Emarc Series
+1. Non-metal armature  
+In previous experiments it is shown that metal armatures melt easily during the projection and cause complications including rail ablation and electronic firework effect(energy lost). This problem may be solved by employing non-metal armature(e.g. graphite) in future experiments.
+2. External B field Increasing the magnetic field strength using NdFeB magnets may help to develop a faster muzzle velocity. N.B. This improvement will make the apparatus directional.
